@@ -1,4 +1,4 @@
-module github.com/go-vela/archiver
+module github.com/naveensrinivasan/archiver
 
 go 1.14
 
